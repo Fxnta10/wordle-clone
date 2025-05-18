@@ -1,6 +1,6 @@
 # Wordle Clone
 
-A browser-based **Wordle Clone** built with **Vanilla JavaScript**, **Node.js**, and **Express**. Guess the 5-letter word within 6 attempts, with interactive feedback for each guess.
+A browser-based **Wordle Clone** built with **Vanilla JavaScript**, **Node.js**, and **Express**. Guess the n-letter word within 6 attempts, with interactive feedback for each guess.
 
 
 ## 🎯 Features
